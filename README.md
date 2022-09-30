@@ -31,4 +31,6 @@
 </div>
 </div>
 
+##
+
 ![Snake animation](https://github.com/JazzBethinksee/JazzBethinksee/blob/output/github-contribution-grid-snake.svg)
