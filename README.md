@@ -14,7 +14,7 @@
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=JazzBethinksee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzBethinksee&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazzBethinksee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -32,5 +32,8 @@
 </div>
 
 ##
+<div align="center">
 
 ![Snake animation](https://github.com/JazzBethinksee/JazzBethinksee/blob/output/github-contribution-grid-snake.svg)
+
+</div>
